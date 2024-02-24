@@ -2,7 +2,7 @@
 ![Front-End Developer](https://media.licdn.com/dms/image/D4D16AQEAHz8sFIoAXg/profile-displaybackgroundimage-shrink_350_1400/0/1708629774465?e=1714003200&v=beta&t=qDCouJYum59_G_bqQJDt6dcoIGN6wPSCHr_ADG9mFWQ)
 
 <h1 align="center">Hi 👋, I'm Abrar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-rahi&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-rahi" /> </p>
 
